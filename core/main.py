@@ -548,7 +548,7 @@ if __name__ == '__main__':
                         help='train or evaluate')
     parser.add_argument('--teacher_model', 
                         type=str, 
-                        default=None,
+                        default='../data/pretrained/teacher/iter_158000',
                         help='required in training.')
     parser.add_argument('--student_model', 
                         type=str, 

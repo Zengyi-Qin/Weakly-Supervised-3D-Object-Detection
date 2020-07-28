@@ -5,6 +5,7 @@ model/
 models/
 output/
 training/
+*zip
 
 # compiled python code
 *.pyc
