@@ -1,0 +1,15 @@
+# data folders
+runs/
+data/
+model/
+models/
+output/
+training/
+
+# compiled python code
+*.pyc
+__pycache__/
+
+# runs
+.ipynb_checkpoints
+.vscode

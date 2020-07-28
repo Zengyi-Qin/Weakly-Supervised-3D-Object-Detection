@@ -1,0 +1,5 @@
+tensorflow==1.12.0
+numpy==1.16.4
+pillow==5.4.1
+jupyter==1.0.0
+matplotlib==3.2.1
