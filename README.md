@@ -52,3 +52,13 @@ cd core
 python main.py --mode evaluate --gpu GPU_ID --student_model SAVED_MODEL
 ```
 Readers can also directly use the pretrained model for inference by passing `--student_model ../data/pretrained/student/model_lidar_158000`. Predicted 3D bounding boxes are saved in `./output/bbox` in KITTI format. 
+
+### Citation
+```
+@article{qin2020vs3d, 
+  title={Weakly Supervised 3D Object Detection from Point Clouds}, 
+  author={Zengyi Qin and Jinglu Wang and Yan Lu},
+  journal={ACM Multimedia},
+  year={2020}
+}
+```
