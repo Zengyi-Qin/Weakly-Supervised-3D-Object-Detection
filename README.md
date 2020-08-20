@@ -1,5 +1,6 @@
 ## Weakly Supervised 3D Object Detection from Point Clouds (VS3D)
 
+![](demo.png)
 ![](demo.gif)
 
 #### Created by [Zengyi Qin](http://www.qinzy.tech/), Jinglu Wang and Yan Lu. The repository contains an implementation of this [ACM MM 2020 Paper](https://arxiv.org/abs/2007.13970). Readers are strongly recommended to create and enter a [virtual environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) with Python 3.6 before running the code.
